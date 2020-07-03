@@ -1,2 +1,2 @@
 # practice-r-
-practice
+This is my practice repo of R programming
